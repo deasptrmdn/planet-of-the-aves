@@ -13,11 +13,11 @@ Design Prototype
 Figma Link:
 https://www.figma.com/design/EluQHbhzG017CTNlWRniPM/Planet-of-The-Aves?node-id=0-1&t=Ql1domjuyQH5ZDM0-1
 
-Development Tools
+Development Tools:
 Flutter
 Dart
 Figma
 GitHub
 
-Project Status
+Project Status:
 Currently in planning and design phase.
