@@ -11,7 +11,7 @@ Educational Quiz
 Design Prototype
 
 Figma Link:
-(Paste your Figma link here)
+https://www.figma.com/design/EluQHbhzG017CTNlWRniPM/Planet-of-The-Aves?node-id=0-1&t=Ql1domjuyQH5ZDM0-1
 
 Development Tools
 Flutter
